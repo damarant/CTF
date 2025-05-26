@@ -180,7 +180,7 @@ cast storage $CONTRACT_ADDRESS 2 --rpc-url $RPC_URL
 0x000000000000000000000000000000000000000000000000000000000000014d
 ```
 
-Mi ha restituito un valore esadecimale `0x14d`che si converte nel decimale *** : che è il codice segreto
+Mi ha restituito un valore esadecimale `0x14d`che si converte nel decimale **333** : che è il codice segreto
 
 ```
 cast send $CONTRACT_ADDRESS "unlock(uint256)" 333 --rpc-url $RPC_URL --private-key $PRIVATE_KEY --legacy
