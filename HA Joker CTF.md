@@ -1,4 +1,6 @@
 
+#tryhackmelabs #laboratorio 
+
 https://tryhackme.com/room/jokerctf
 
 Abbiamo sviluppato questo laboratorio per analizzare le pratiche di penetrazione online. Superare questo laboratorio non è poi così difficile se si hanno solide conoscenze di base sui penetration test. Iniziamo e impariamo come violarlo.
@@ -589,10 +591,10 @@ cd /mnt/root/root
 ls
 ```
 ```
-xxxxx.xxx
+xxxxxxx.txt
 ```
 ```
-cat xxxxx.xxx
+cat xxxxxxx.txt
 ```
 
 ```

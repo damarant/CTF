@@ -1,4 +1,6 @@
 
+#tryhackmelabs #laboratorio 
+
 https://tryhackme.com/room/plottedtms
 
 ```
@@ -371,11 +373,11 @@ cat /home/plot_admin/user.txt
 ```
 plot_admin@plotted:~$ cat /home/plot_admin/user.txt
 cat /home/plot_admin/user.txt
-xxxxxxxxxxxxxxxxxxxx
+77927510d5edacea1f9e86602f1fbadb
 ```
 otteniamo la flag user
 ```
-xxxxxxxxxxxxxxxxxxxx
+77927510d5edacea1f9e86602f1fbadb
 ```
 
 **Ora cerchiamo di diventare root**
@@ -483,7 +485,7 @@ doas openssl enc -base64 -in /root/root.txt | base64 -d
 doas openssl enc -base64 -in /root/root.txt | base64 -d
 Congratulations on completing this room!
 
-xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
 
 Hope you enjoyed the journey!
 
