@@ -5,8 +5,6 @@ Guida alla soluzione delle CTF
 
 [PassCode](https://github.com/damarant/CTF/blob/main/PassCode.md)
 
-[HA Jocker CTF](https://github.com/damarant/CTF/blob/main/HA%20Joker%20CTF.md)
-
 [Baron Samedit](https://github.com/damarant/CTF/blob/main/Baron%20Samedit.md)
 
 [Bypass Disable Functions](https://github.com/damarant/CTF/blob/main/Bypass%20Disable%20Functions.md)
