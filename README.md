@@ -21,8 +21,6 @@ Guida alla soluzione delle CTF
 
 [TakeOver](https://github.com/damarant/CTF/blob/main/TakeOver.md)
 
-- - -
-
 [Agent Sudo](https://github.com/damarant/CTF/blob/main/Agent%20Sudo.md)
 
 [Alfred](https://github.com/damarant/CTF/blob/main/Alfred.md)
@@ -32,8 +30,6 @@ Guida alla soluzione delle CTF
 [Anthem](https://github.com/damarant/CTF/blob/main/Anthem.md)
 
 [Badbyte](https://github.com/damarant/CTF/blob/main/Badbyte.md)
-
-[Basic Pentesting](https://github.com/damarant/CTF/blob/main/Basic%20Pentesting.md)
 
 [Billing](https://github.com/damarant/CTF/blob/main/Billing.md)
 
@@ -99,8 +95,6 @@ Guida alla soluzione delle CTF
 [PrintNightmare](https://github.com/damarant/CTF/blob/main/PrintNightmare.md)
 
 [Pwnkit CVE-2021-4034](https://github.com/damarant/CTF/blob/main/Pwnkit%20CVE-2021-4034.md)
-
-[Relevant](https://github.com/damarant/CTF/blob/main/Relevant.md)
 
 [Res](https://github.com/damarant/CTF/blob/main/Res.md)
 
