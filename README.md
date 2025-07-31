@@ -23,14 +23,14 @@ Guida alla soluzione delle CTF
 
 - - -
 
-[Agent Sudo](https://github.com/damarant/CTF/blob/main/Agent Sudo.md)
+[Agent Sudo](https://github.com/damarant/CTF/blob/main/Agent%20Sudo.md)
 
 [Alfred](https://github.com/damarant/CTF/blob/main/Alfred.md)
 
 [Anonymous](https://github.com/damarant/CTF/blob/main/Anonymous.md)
 [Anthem](https://github.com/damarant/CTF/blob/main/Anthem.md)
 [Badbyte](https://github.com/damarant/CTF/blob/main/Badbyte.md)
-[Basic Pentesting](https://github.com/damarant/CTF/blob/main/Basic Pentesting.md)
+[Basic Pentesting](https://github.com/damarant/CTF/blob/main/Basic%20Pentesting.md)
 [Billing](https://github.com/damarant/CTF/blob/main/Billing.md)
 [Blog](https://github.com/damarant/CTF/blob/main/Blog.md)
 [Blueprint](https://github.com/damarant/CTF/blob/main/Blueprint.md)
