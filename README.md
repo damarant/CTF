@@ -121,3 +121,83 @@ Guida alla soluzione delle CTF
 [Tomcat CVE-2024-50379](https://github.com/damarant/CTF/blob/main/Tomcat%20CVE-2024-50379.md)
 
 [Wordpress CVE-2021-29447](https://github.com/damarant/CTF/blob/main/Wordpress%20CVE-2021-29447.md)
+
+[Agent T](https://github.com/damarant/CTF/blob/main/Agent%20T.md)
+
+[Brainpan 1](https://github.com/damarant/CTF/blob/main/Brainpan%201.md)
+
+[Brainstorm](https://github.com/damarant/CTF/blob/main/Brainstorm.md)
+
+[Breaking RSA](https://github.com/damarant/CTF/blob/main/Breaking%20RSA.md)
+
+[Bugged](https://github.com/damarant/CTF/blob/main/Bugged.md)
+
+[Capture](https://github.com/damarant/CTF/blob/main/Capture.md)
+
+[Corp](https://github.com/damarant/CTF/blob/main/Corp.md)
+
+[Corridor](https://github.com/damarant/CTF/blob/main/Corridor.md)
+
+[Creative](https://github.com/damarant/CTF/blob/main/Creative.md)
+
+[CyberHeroes](https://github.com/damarant/CTF/blob/main/CyberHeroes.md)
+
+[Epoch](https://github.com/damarant/CTF/blob/main/Epoch.md)
+
+[Evil-GPT v2](https://github.com/damarant/CTF/blob/main/Evil-GPT%20v2.md)
+
+[Evil-GPT](https://github.com/damarant/CTF/blob/main/Evil-GPT.md)
+
+[Expose](https://github.com/damarant/CTF/blob/main/Expose.md)
+
+[Frank & Herby make an app](https://github.com/damarant/CTF/blob/main/Frank%20%26%20Herby%20make%20an%20app.md)
+
+[Gatekeeper](https://github.com/damarant/CTF/blob/main/Gatekeeper.md)
+
+[Glitch](https://github.com/damarant/CTF/blob/main/Glitch.md)
+
+[Grep](https://github.com/damarant/CTF/blob/main/Grep.md)
+
+[Heist](https://github.com/damarant/CTF/blob/main/Heist.md)
+
+[Internal](https://github.com/damarant/CTF/blob/main/Internal.md)
+
+[Interpreter (HackTheBox)](https://github.com/damarant/CTF/blob/main/Interpreter%20%28HackTheBox%29.md)
+
+[Lockdown](https://github.com/damarant/CTF/blob/main/Lockdown.md)
+
+[Lofi](https://github.com/damarant/CTF/blob/main/Lofi.md)
+
+[Lookup](https://github.com/damarant/CTF/blob/main/Lookup.md)
+
+[Lumberjack Turtle](https://github.com/damarant/CTF/blob/main/Lumberjack%20Turtle.md)
+
+[Magician](https://github.com/damarant/CTF/blob/main/Magician.md)
+
+[MD2PDF](https://github.com/damarant/CTF/blob/main/MD2PDF.md)
+
+[Neighbour](https://github.com/damarant/CTF/blob/main/Neighbour.md)
+
+[Prioritise](https://github.com/damarant/CTF/blob/main/Prioritise.md)
+
+[Red](https://github.com/damarant/CTF/blob/main/Red.md)
+
+[Shells Overview](https://github.com/damarant/CTF/blob/main/Shells%20Overview.md)
+
+[Signor Robot CTF](https://github.com/damarant/CTF/blob/main/Signor%20Robot%20CTF.md)
+
+[Skynet](https://github.com/damarant/CTF/blob/main/Skynet.md)
+
+[Soupedecode 01](https://github.com/damarant/CTF/blob/main/Soupedecode%2001.md)
+
+[SQLMap The Basics](https://github.com/damarant/CTF/blob/main/SQLMap%20The%20Basics.md)
+
+[Templates](https://github.com/damarant/CTF/blob/main/Templates.md)
+
+[TryHack3M Bricks Heist](https://github.com/damarant/CTF/blob/main/TryHack3M%20Bricks%20Heist.md)
+
+[Void Execution](https://github.com/damarant/CTF/blob/main/Void%20Execution.md)
+
+[WhyHackMe](https://github.com/damarant/CTF/blob/main/WhyHackMe.md)
+
+[Windows Local Persistence](https://github.com/damarant/CTF/blob/main/Windows%20Local%20Persistence.md)
