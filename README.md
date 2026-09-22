@@ -1,5 +1,5 @@
 # CTF
-Guida alla soluzione delle CTF
+A collection of TryHackMe CTF writeups, walkthroughs, and solutions. Step-by-step guides for cybersecurity, ethical hacking, and pentesting practice.
 
 ## TryHackMe
 
@@ -20,8 +20,6 @@ Guida alla soluzione delle CTF
 [Roundcube CVE-2025-49113](https://github.com/damarant/CTF/blob/main/Roundcube%20CVE-2025-49113.md)
 
 [TakeOver](https://github.com/damarant/CTF/blob/main/TakeOver.md)
-
-- - -
 
 [Agent Sudo](https://github.com/damarant/CTF/blob/main/Agent%20Sudo.md)
 
